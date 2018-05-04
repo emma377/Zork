@@ -163,11 +163,20 @@ class Game
                 return true;  // signal that we want to quit
         }else if (commandWord.equals("eat")){
         	System.out.println("Do you really think you should be eating at a time like this?");
+        }else if(commandWord.equals("yell")) {
+        	startYelling(command);
         }
         return false;
     }
 
-    // implementations of user commands:
+    private void startYelling(Command command) {
+		System.out.println("With your biggest outdoor voice you yell...");
+		System.out.println(command.getSecondWord());
+		System.out.println("Feel better?");
+		
+	}
+
+	// implementations of user commands:
 
     /**
      * Print out some help information.
