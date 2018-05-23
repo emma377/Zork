@@ -25,6 +25,7 @@ package com.bayviewglen.zork;
 class Command
 {
     private String commandWord;
+    private String firstWord;
     private String secondWord;
 
     /**
@@ -55,7 +56,8 @@ class Command
     {
         return secondWord;
     }
-
+    
+    
     /**
      * Return true if this command was not understood.
      */
@@ -71,5 +73,6 @@ class Command
     {
         return (secondWord != null);
     }
+    
 }
 

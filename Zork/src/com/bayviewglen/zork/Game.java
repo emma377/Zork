@@ -150,6 +150,11 @@ class Game
             return false;
         }
 
+        
+        
+        
+        
+        
         String commandWord = command.getCommandWord();
         if (commandWord.equals("help"))
             printHelp();
@@ -169,7 +174,9 @@ class Game
         return false;
     }
 
-    private void startYelling(Command command) {
+    
+
+	private void startYelling(Command command) {
 		System.out.println("With your biggest outdoor voice you yell...");
 		System.out.println(command.getSecondWord());
 		System.out.println("Feel better?");
