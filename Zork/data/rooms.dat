@@ -1,9 +1,324 @@
-Room Name: Open Field
-Room Description:  You are in a wide open field. You hear screaming from the east.<br>Scared?
-Exit Rooms: E-Room 2
-Room Name: Room 2
-Room Description:  This is Room 2
-Exit Rooms: W-Room 1, U-Room 3
-Room Name: Room 3
-Room Description:  You are upstairs.
-Exit Rooms: D-Room 2
+
+Room Name: Platform
+Room Description: This is your starting platform. The directions available to you are North, South, East, and West. Go north to the cornucopia if you want to collect starting supplies but be careful because there might be other people there going for the supplies as well. Go any other direction to flee the middle.
+Exit Rooms: N-Cornucopia, S-Beach 2, E-Beach 1, W-Beach 3
+
+Room Name: Cornucopia
+Room Description: You are at the cornucopia. Here you can find some supplies to help you get started.
+Exit Rooms: N-Salt River with Bridge 2, S-Platform, E-Beach 5, W-Beach 6
+
+Room Name: Insects
+Room Description:
+Exit Rooms: N-Forest 27, S-Forest 2, W-Forest 26
+
+Room Name: Lightning
+Room Description:
+Exit Rooms: N-Forest 28, S-Forest 4, E-Open Field 7
+
+Room Name: Blood Rain
+Room Description:
+Exit Rooms: S-Forest 29, W-Open Field 7
+
+Room Name: Fog
+Room Description:
+Exit Rooms: N-Forest 29, S-Mountain 1, E-Forest 30, W-Forest 6
+
+Room Name: Monkey Mutts
+Room Description:
+Exit Rooms: N-Mountain 2, S-Forest 14, E-Forest 32, W-Forest 9
+
+Room Name: Jabber Jays
+Room Description:
+Exit Rooms: N-Forest 19, W-Ditch
+
+Room Name: Earthquake
+Room Description:
+Exit Rooms: N-Forest 11, S-Rock Pile, E-Ditch, W-Forest 21
+
+Room Name: Beast
+Room Description:
+Exit Rooms: N-Forest 13, S-Waterfall, E-Forest 21, W-Forest 22
+
+Room Name: Devil’s Snare
+Room Description:
+Exit Rooms: N-Forest 23, E-Forest 22
+
+Room Name: Forest Fire
+Room Description:
+Exit Rooms: N-Forest 18, S-Forest 23, E-Forest 15, W-Freshwater Pond 1
+
+Room Name: Quicksand
+Room Description:
+Exit Rooms: N-Open Field 1, S-Forest 18, E-Forest 17, W-Open Field 3
+
+Room Name: Wave
+Room Description:
+Exit Rooms: N-Open Field 5, S-Open Field 1, E-Forest 1, W-Forest 25
+
+Room Name: Salt River 1
+Room Description:
+Exit Rooms: N-Salt River with Bridge 1, S-Salt River 2
+
+Room Name: Salt River 2
+Room Description:
+Exit Rooms: N-Salt River 1, S-Salt River with Bridge 2
+
+Room Name: Salt River with Bridge 1
+Room Description:
+Exit Rooms:S-Salt River 1, E-Forest 28, W-Forest 27
+
+Room Name: Salt River with Bridge 2
+Room Description:
+Exit Rooms: N-Salt River 2, S-Cornucopia, E-Beach 9, West-Beach 4
+
+Room Name: Water Spring
+Room Description:
+Exit Rooms: S-Forest 26, E-Forest 27
+
+Room Name: Large Tree
+Room Description:
+Exit Rooms: S-Forest 30, W-Forest 29
+
+Room Name: Waterfall
+Room Description:
+Exit Rooms: N-Beast, E-Forest 20, W-Forest 19
+
+
+
+
+Room Name: Rock Pile
+Room Description:
+Exit Rooms: 
+
+Room Name: Freshwater Pond 1
+Room Description:
+Exit Rooms:
+
+Room Name: Freshwater Pond 2
+Room Description:
+Exit Rooms:
+
+Room Name: Mountain 1
+Room Description:
+Exit Rooms:
+ 
+
+Room Name: Mountain 2
+Room Description:
+Exit Rooms:
+
+Room Name: Cave 1
+Room Description:
+Exit Rooms:
+
+Room Name: Cave 2
+Room Description:
+Exit Rooms:
+
+Room Name: Cave 3
+Room Description:
+Exit Rooms:
+
+Room Name: Beach 1
+Room Description:
+Exit Rooms:
+
+Room Name: Beach 2
+Room Description:
+Exit Rooms:
+
+Room Name: Beach 3
+Room Description:
+Exit Rooms:
+
+Room Name: Beach 4
+Room Description:
+Exit Rooms:
+
+Room Name: Beach 5
+Room Description:
+Exit Rooms:
+ 
+ 
+
+Room Name: Beach 6
+Room Description:
+Exit Rooms:
+
+Room Name: Beach 7
+Room Description:
+Exit Rooms:
+
+Room Name: Beach 8
+Room Description:
+Exit Rooms:
+
+Room Name: Beach 9
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 1
+Room Description: 
+Exit Rooms:
+
+Room Name: Forest 2
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 3
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 4
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 5
+Room Description:
+Exit Rooms:
+ 
+ 
+
+Room Name: Forest 6
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 7
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 8
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 9
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 10
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 11
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 12
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 13
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 14
+Room Description:
+Exit Rooms:
+ 
+ 
+
+Room Name: Forest 15
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 16
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 17
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 18
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 19
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 20
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 21
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 22
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 23
+Room Description:
+Exit Rooms:
+ 
+ 
+
+Room Name: Forest 24
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 25
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 26
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 27
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 28
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 29
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 30
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 31
+Room Description:
+Exit Rooms:
+
+Room Name: Forest 32
+Room Description:
+Exit Rooms:
+ 
+ 
+
+Room Name: Open Field 1
+Room Description: 
+Exit Rooms:
+ 
+
+Room Name: Open Field 2
+Room Description:
+Exit Rooms:
+
+Room Name: Open Field 3
+Room Description:
+Exit Rooms:
+
+Room Name: Open Field 4
+Room Description:
+Exit Rooms:
+
+Room Name: Open Field 5
+Room Description:
+Exit Rooms:
+
+Room Name: Open Field 6
+Room Description:
+Exit Rooms:
+
+Room Name: Open Field 7
+Room Description:
+Exit Rooms:
+ 
