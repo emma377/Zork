@@ -170,3 +170,21 @@ Exit Rooms: N-Open Field 4, S-Forest 24, E-Forest Fire
 Room Name: Freshwater Pond 2
 Room Description: There is a freshwater pond here. This may be a good place to fill up water bottles or grab a drink.
 Exit Rooms: N-Forest 32, W-Forest 14
+Room Name: Salt River 1
+Room Description: You are at a saltwater river. This probably isn’t the best place to get a drink, but you might be able to find other resources here.
+Exit Rooms: N-Salt River with Bridge 1, S-Salt River 2
+Room Name: Salt River 2
+Room Description: You are at a saltwater river. This probably isn’t the best place to get a drink, but you might be able to find other resources here.
+Exit Rooms: N-Salt River 1, S-Salt River with Bridge 2
+Room Name: Salt River with Bridge 1
+Room Description: You are at a bridge crossing the saltwater river. You can hop off of the bridge and go down into the river by going south, or you can cross the river by heading east or west.
+Exit Rooms:S-Salt River 1, E-Forest 28, W-Forest 27
+Room Name: Salt River with Bridge 2
+Room Description: You are at a bridge crossing the saltwater river. You can hop off of the bridge and go down into the river by going north, or you can cross the river by heading east or west.
+Exit Rooms: N-Salt River 2, S-Cornucopia, E-Beach 9, West-Beach 4
+Room Name: Water Spring
+Room Description: You are at a water spring. This is the best place to fill up water bottles or grab a drink since it has clean water.
+Exit Rooms: S-Forest 26, E-Forest 27
+Room Name: Large Tree
+Room Description: There is a large tree in front of you. It blocks most of the sunlight shining down. Things could be hiding in the bushes around you and you may not even notice because of the shadows.
+Exit Rooms: S-Forest 30, W-Forest 29
