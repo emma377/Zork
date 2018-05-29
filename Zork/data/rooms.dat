@@ -1,0 +1,130 @@
+Room Name: Platform
+Room Description: You are at your starting platform. The directions available to you are North, South, East, and West. Go north to the cornucopia if you want to collect starting supplies but be careful because there might be other people there going for the supplies as well. Go any other direction to flee the middle.
+Exit Rooms: N-Cornucopia, S-Beach 2, E-Beach 1, W-Beach 3
+Room Name: Cornucopia
+Room Description: You are at the cornucopia. Here you can find some supplies to help you get started.
+ItemsList: sword, bow, knives, axe, baton, trident
+Exit Rooms: N-Salt River with Bridge 2, S-Platform, E-Beach 5, W-Beach 6
+Room Name: Mountain 1
+Room Description: You are in a path between mountains. There are tall mountains covered with a rug of multi-coloured trees on your right and left. 
+Exit Rooms: N-Fog, S-Mountain 2, E-Forest 31, W-Forest 7
+Room Name: Mountain 2
+Room Description: You are in a path between mountains. There are tall mountains covered with a rug of multi-coloured trees on your right and left. 
+Exit Rooms: N-Mountain 1, S-Monkey Mutts, E-Cave 3, W-Forest 8
+Room Name: Forest 1
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest 26, S-Forest 3, E-Forest 2, W-Wave
+Room Name: Forest 2
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Insects, S-Beach 4, W-Forest 1
+Room Name: Forest 3
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest 1, S-Forest 17, E-Beach 4, W-Open Field 1
+Room Name: Forest 4
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Lightning, S-Beach 9, E-Cave 1
+Room Name: Forest 5
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Ditch, W-Rock Pile
+Room Name: Forest 6
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Cave 1, S-Forest 7, E-Fog, W-Beach 9
+Room Name: Forest 7
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest 6, S-Forest 8, E-Mountain 1, W-Beach 5
+Room Name: Forest 8
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest 7, S-Forest 9, E-Mountain 2, W-Beach 1
+Room Name: Forest 9
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest 8, S-Forest 10, E-Monkey Mutts, W-Beach 8
+Room Name: Forest 10
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest 9, S-Ditch, E-Forest 14, W-Forest 11
+Room Name: Forest 11
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Beach 8, S-Earthquake, E-Forest 10, W-Forest 12
+Room Name: Forest 12
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Beach 2, S-Forest 21, E-Forest 11, W-Forest 13
+Room Name: Forest 13
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Beach 8, S-Beast, E-Forest 12, W-Cave 2
+Room Name: Forest 14
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Monkey Mutts, S-Jabber Jays, E-Freshwater Pond 2, W-Forest 10
+Room Name: Forest 15
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest 16, S-Cave 2, E-Beach 7, W-Forest Fire
+Room Name: Forest 16
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest 17, S-Forest 15, E-Beach 3, W-Forest 18
+Room Name: Forest 17
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest 3, S-Forest 16, E-Beach 6, W-Quicksand
+Room Name: Forest 18
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Quicksand, S-Forest Fire, E-Forest 16, W-Open Field 4
+Room Name: Forest 19
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest 22, E-Waterfall
+Room Name: Forest 20
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest 21, E-Rock Pile, W-Waterfall
+Room Name: Forest 21
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest 12, S-Forest 20, E-Earthquake, W-Beast
+Room Name: Forest 22
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Cave 2, S-Forest 19, E-Beast, W-Devil’s Snare
+Room Name: Forest 23
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest Fire, S-Devil’s Snare, E-Cave 2, W-Forest 24
+Room Name: Forest 24
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Freshwater Pond 1, E-Forest 23
+Room Name: Forest 25
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: S-Open Field 2, E-Wave
+Room Name: Forest 26
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Water Spring, S-Forest 1, E-Insects, W-Open Field 5
+Room Name: Forest 27
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: S-Insects, E-Salt River with Bridge 1, W-Water Spring
+Room Name: Forest 8
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: S-Lightning, E-Open Field 6, W-Salt River with Bridge 1
+Room Name: Forest 29
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Blood Rain, S-Fog, E-Large Tree, W-Cave 1
+Room Name: Forest 30
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Large Tree, S-Forest 31, W-Fog
+Room Name: Forest 31
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Forest 30, S-Cave 3, W-Mountain 1
+Room Name: Forest 32
+Room Description: Tall green trees surround you. The branches are high up in the tree. A thick canopy of leaves block out some of the sunlight. Dead leaves and grass are scattered on the ground. There is a faint sound of the wind whistling through the leaves and the birds chirping.
+Exit Rooms: N-Cave 3, S-Freshwater Pond 2, W-Monkey Mutts
+Room Name: Open Field 1
+Room Description: You are surrounded by tall yellow grass. The area is scattered with small bushes and short trees. All you can see is nature. 
+Exit Rooms: N-Wave, S-Quicksand, E-Forest 3, W-Open Field 2
+Room Name: Open Field 2
+Room Description: You are surrounded by tall yellow grass. The area is scattered with small bushes and short trees. All you can see is nature.
+Exit Rooms: N-Forest 25, S-Open Field 3, E-Open Field 1
+Room Name: Open Field 3
+Room Description: You are surrounded by tall yellow grass. The area is scattered with small bushes and short trees. All you can see is nature.
+Exit Rooms: N-Open Field 2, S-Open Field 4, E-Quicksand
+Room Name: Open Field 4
+Room Description: You are surrounded by tall yellow grass. The area is scattered with small bushes and short trees. All you can see is nature.
+Exit Rooms: N-Open Field 3, S-Freshwater Pond 1, E-Forest 18
+Room Name: Open Field 5
+Room Description: You are surrounded by tall yellow grass. The area is scattered with small bushes and short trees. All you can see is nature.
+Exit Rooms: S-Wave, E-Forest 26
+Room Name: Open Field 6
+Room Description: You are surrounded by tall yellow grass. The area is scattered with small bushes and short trees. All you can see is nature.
+Exit Rooms: S-Open Field 7, W-Forest 28
+Room Name: Open Field 7
+Room Description: You are surrounded by tall yellow grass. The area is scattered with small bushes and short trees. All you can see is nature.
+Exit Rooms: N-Open Field 6, S-Cave 1, E-Blood Rain, W-Lightning
