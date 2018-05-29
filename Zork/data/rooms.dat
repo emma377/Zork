@@ -128,3 +128,45 @@ Exit Rooms: S-Open Field 7, W-Forest 28
 Room Name: Open Field 7
 Room Description: You are surrounded by tall yellow grass. The area is scattered with small bushes and short trees. All you can see is nature.
 Exit Rooms: N-Open Field 6, S-Cave 1, E-Blood Rain, W-Lightning
+Room Name: Beach 1
+Room Description: You are on a beach. There is sand beneath you and water to your right.
+Exit Rooms: N-Beach 5, S-Beach 8, E-Forest 8, W-Platform
+Room Name: Beach 2
+Room Description: You are on a beach. There is sand beneath you and water to your right.
+Exit Rooms: N-Platform, S-Forest 12, E-Beach 8, W-Beach 7
+Room Name: Beach 3
+Room Description: You are on a beach. There is sand beneath you and water to your right.
+Exit Rooms: N-Beach 6, S-Beach 7, E-Platform, W-Forest 16
+Room Name: Beach 4
+Room Description: You are on a beach. There is sand beneath you and water to your right.
+Exit Rooms: N-Forest 2, S-Beach 6, E-Salt River with Bridge 2, W-Forest 3
+Room Name: Beach 5
+Room Description: You are on a beach. There is sand beneath you and water to your right.
+Exit Rooms: N-Beach 9, S-Beach 1, E-Forest 7, W-Cornucopia
+Room Name: Beach 6
+Room Description: You are on a beach. There is sand beneath you and water to your right.
+Exit Rooms: N-Beach 4, S-Beach 3, E-Cornucopia, W-Forest 17
+Room Name: Beach 7
+Room Description: You are on a beach. There is sand beneath you and water to your right.
+Exit Rooms: N-Beach 3, S-Forest 13, E-Beach 2, W-Forest 15
+Room Name: Beach 8
+Room Description: You are on a beach. There is sand beneath you and water to your right.
+Exit Rooms: N-beach 1, S-Forest 11, E-Forest 9, W-Beach 2
+Room Name: Beach 9
+Room Description: You are on a beach. There is sand beneath you and water to your right.
+Exit Rooms: N-Forest 4, S-Beach 5, E-Forest 6, W-Salt River with Bridge 2
+Room Name: Cave 1
+Room Description: You find yourself inside a cave. It’s cold and dark in here, just a small section of light pouring in from outside, but it could be a nice place to rest.
+Exit Rooms: N-Open Field 7, S-Forest 6, E-Forest 29, W-Forest 4
+Room Name: Cave 2
+Room Description: You find yourself inside a cave. It’s cold and dark in here, just a small section of light pouring in from outside, but it could be a nice place to rest.
+Exit Rooms: N-Forest 15, S-Forest 22, E-Forest 13, W-Forest 23
+Room Name: Cave 3
+Room Description: You find yourself inside a cave. It’s cold and dark in here, just a small section of light pouring in from outside, but it could be a nice place to rest.
+Exit Rooms: N-Forest 31, S-Forest 32, W-Mountain 2
+Room Name: Freshwater Pond 1
+Room Description: There is a freshwater pond here. This may be a good place to fill up water bottles or grab a drink.
+Exit Rooms: N-Open Field 4, S-Forest 24, E-Forest Fire
+Room Name: Freshwater Pond 2
+Room Description: There is a freshwater pond here. This may be a good place to fill up water bottles or grab a drink.
+Exit Rooms: N-Forest 32, W-Forest 14
