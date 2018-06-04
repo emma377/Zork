@@ -1,75 +1,75 @@
 Room Name: Temple
-Room Description: 
+Room Description: You are inside of a temple. You see scratches on the wall. Use read to investigate the scratches.
 Exit Rooms: E-Acid Fog, S-Cave
 Room Name: Acid Fog
-Room Description: 
+Room Description: You are in the middle of a forest and you see a yellow fog coming towards you. Fast. The acid fog hurts you.
 Exit Rooms: E-Waterfall, S-Forest, W-Temple
 Room Name: Waterfall
-Room Description: 
+Room Description: You are at a waterfall. Under the rushing water you see writing on the wall. You might want to find out more about those.
 Exit Rooms: E-Open Field, S-Narrow Passage, W-Acid Fog
 Room Name: Open Field
-Room Description: 
+Room Description: You are in an open field. You may be able to find food somewhere around here.
 Exit Rooms: E-Rock Pile, S-Lightning Strike, W-Waterfall
 Room Name: Rock Pile
-Room Description: 
+Room Description: There is a large pile of rocks in the area in front of you. There is scratches on some of the rocks. You should probably look into that...
 Exit Rooms: S-Damp Cave, W-Open Field
 Room Name: Cave
-Room Description: 
+Room Description: You are inside of a cave and there are markings on the wall to your left. Wonder what they say...
 Exit Rooms: N-Temple, E-Forest, S-Campground
 Room Name: Forest
-Room Description: 
+Room Description: You are in a forest surrounded by tall trees and bushes. Maybe there's some food nearby...
 Exit Rooms: N-Acid Fog, E-Narrow Passage, S-Trail, W-Cave
 Room Name: Narrow Passage
-Room Description: 
+Room Description: You find yourself inside a narrow passage surrounded by tall rock faces. There is writing on the walls.
 Exit Rooms: N-Waterfall, E-Lightning Strike, S-Start, W-Forest
 Room Name: Lightning Strike
-Room Description: 
+Room Description: There is a big tree beside you when a lightning bolt strikes. Ouch.
 Exit Rooms: N-Open Field, E-Damp Cave, S-Beach, W-Narrow Passage
 Room Name: Damp Cave
-Room Description: 
+Room Description: You are inside a damp cave. It seems like someone has been here before because there is leftover food scraps scattering the floor.
 Exit Rooms: N-Rock Pile, S-Birch Forest, W-Lightning Strike
 Room Name: Campground
-Room Description: 
+Room Description: You find yourself at a campground, a good place to spend the night maybe. The picnic benches seem to have carvings in them.
 Exit Rooms: N-Cave, E-Trail, S-River
 Room Name: Trail
-Room Description: 
+Room Description: You are walking down a trail in the middle of the forest. You are surrounded by large trees. You see berry bushes up ahead.
 Exit Rooms: N-Forest, E-Start, S-Insects, W-Campground
 Room Name: Start
-Room Description: 
+Room Description: This is your starting room. Come back here at the end to enter the code once you have found all 8 words.
 Exit Rooms: N-Narrow Passage, E-Beach, S-Airplane Wreckage, W-Trail
 Room Name: Beach
-Room Description: 
+Room Description: You are at a beach and see a half full backpack out in front of you. Maybe there are some useful supplies in there.
 Exit Rooms: N-Lightning Strike, E-Birch Forest, S-Lake, W-Start
 Room Name: Birch Forest
-Room Description: 
+Room Description: You find yourself in the middle of a birch forest. One of the trees to your right seem to have some carvings into the wood. You should probably find out more about that.
 Exit Rooms: N-Damp Cave, S-Cellar, W-Beach
 Room Name: River
-Room Description: 
+Room Description: You are walking along a river when you see some berry bushes just up ahead. Some food might be nice.
 Exit Rooms: N-Campground, E-Insects, S-Cabin
 Room Name: Insects
-Room Description: 
+Room Description: You are in a forest and there are soooo many bugs. After getting bit hundreds of times in just minutes you find youself left with a VERY swollen face.
 Exit Rooms: N-Trail, E-Airplane Wreckage, S-Orange Grove, W-River
 Room Name: Airplane Wreckage
-Room Description: 
+Room Description: In front of you, you see what must be wreckage from that airplane crash back in 2014. On the side of the plane you see what seems to be some sort of message.
 Exit Rooms: N-Start, E-Lake, S-Boulder, W-Insects
 Room Name: Lake
-Room Description: 
+Room Description: There is a massive lake in front of you. There are a few apple trees around the edge of it.
 Exit Rooms: N-Beach, E-Cellar, S-Mountain, W-Airplane Wreckage
 Room Name: Cellar
-Room Description: 
+Room Description: You find yourself inside of an old abandoned cellar. There seems to be some writing on the wall. 
 Exit Rooms: N-Birch Forest, S-Acid Rain, W-Lake
 Room Name: Cabin
-Room Description: 
+Room Description: You are inside of a cabin, away from the cold rain outside. On the back wall there are some scratch marks. Maybe you should take a look at those.
 Exit Rooms: N-River, E-Orange Grove
 Room Name: Orange Grove
-Room Description: 
+Room Description: You are in the middle of an orange grove. It smells great and wow those oranges look good!
 Exit Rooms: N-Insects, E-Boulder, W-Cabin
 Room Name: Boulder
-Room Description: 
+Room Description: There's a hill on your left and you see a boulder rolling down it... straight towards you. It hits you. Oof.
 Exit Rooms: N-Airplane Wreckage, E-Mountain, W-Orange Grove
 Room Name: Mountain
-Room Description: 
+Room Description: You start hiking up a mountain when you see a rock with some engravings on it. Wonder what those are from...
 Exit Rooms: N-Lake, E-Acid Rain, W-Boulder
 Room Name: Acid Rain
-Room Description: 
+Room Description: You are in the middle of a field when suddenly it starts raining. The rain burns and it turns out to be acid rain. That'll leave a mark.
 Exit Rooms: N-Cellar, W-Mountain
