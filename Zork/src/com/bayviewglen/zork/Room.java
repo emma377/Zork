@@ -1,27 +1,32 @@
 package com.bayviewglen.zork;
 /*
- * Class Room - a room in an adventure game.
- *
- * Author:  Michael Kolling
- * Version: 1.1
- * Date:    August 2000
- * 
+* Class Room - a room in an adventure game.
+*
+* Author:  Michael Kolling
+* Version: 1.1
+* Date:    August 2000
+* 
  * This class is part of Zork. Zork is a simple, text based adventure game.
- *
- * "Room" represents one location in the scenery of the game.  It is 
+*
+* "Room" represents one location in the scenery of the game.  It is 
  * connected to at most four other rooms via exits.  The exits are labelled
- * north, east, south, west.  For each direction, the room stores a reference
- * to the neighbouring room, or null if there is no exit in that direction.
- */
+* north, east, south, west.  For each direction, the room stores a reference
+* to the neighbouring room, or null if there is no exit in that direction.
+*/
 
 import java.util.Set;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.List;
 
 class Room 
 {
-	private String roomName;
+      private Items item;
+      private String roomName;
     private String description;
+    private ArrayList<Items> itemList;              //this is the room inventory
     private HashMap<String, Room> exits;        // stores exits of this room.
 
     /**
@@ -35,29 +40,30 @@ class Room
     }
 
     public Room() {
-		// default constructor.
-    	roomName = "DEFAULT ROOM";
-    	description = "DEFAULT DESCRIPTION";
-    	exits = new HashMap<String, Room>();
-	}
+             // default constructor.
+      roomName = "DEFAULT ROOM";
+      description = "DEFAULT DESCRIPTION";
+      itemList = new ArrayList<Items>();
+      exits = new HashMap<String, Room>();
+      }
 
     public void setExit(char direction, Room r) throws Exception{
-    	String dir= "";
-    	switch (direction){
-    	case 'E': dir = "east";break;
-    	case 'W': dir = "west";break;
-    	case 'S': dir = "south";break;
-    	case 'N': dir = "north";break;
-    	case 'U': dir = "up";break;
-    	case 'D': dir = "down";break;
-    	default: throw new Exception("Invalid Direction");
-    	
-    	}
-    	
-    	exits.put(dir, r);
+      String dir= "";
+      switch (direction){
+      case 'E': dir = "east";break;
+      case 'W': dir = "west";break;
+      case 'S': dir = "south";break;
+      case 'N': dir = "north";break;
+      case 'U': dir = "up";break;
+      case 'D': dir = "down";break;
+      default: throw new Exception("Invalid Direction");
+      
+      }
+      
+      exits.put(dir, r);
     }
     
-	/**
+      /**
      * Define the exits of this room.  Every direction either leads to
      * another room or is null (no exit there).
      */
@@ -94,7 +100,7 @@ class Room
      */
     public String longDescription()
     {
-    	
+      
         return "Room: " + roomName +"\n\n" + description + "\n" + exitString();
     }
 
@@ -105,7 +111,7 @@ class Room
     private String exitString()
     {
         String returnString = "Exits:";
-		Set keys = exits.keySet();
+             Set keys = exits.keySet();
         for(Iterator iter = keys.iterator(); iter.hasNext(); )
             returnString += " " + iter.next();
         return returnString;
@@ -120,19 +126,55 @@ class Room
         return (Room)exits.get(direction);
     }
 
-	public String getRoomName() {
-		return roomName;
-	}
+      public String getRoomName() {
+             return roomName;
+      }
 
-	public void setRoomName(String roomName) {
-		this.roomName = roomName;
-	}
+      public void setRoomName(String roomName) {
+             this.roomName = roomName;
+      }
 
-	public String getDescription() {
-		return description;
-	}
+      public String getDescription() {
+             return description;
+      }
 
-	public void setDescription(String description) {
-		this.description = description;
-	}
+      public void setDescription(String description) {
+             this.description = description;
+      }
+      
+      public ArrayList<Items> getRoomInventory() {
+             return itemList;
+      }
+
+      //takes the string array of the items in the room and puts it in an ArrayList of items
+      public void setRoomInventory(String[] items) {
+             List<String> stringItems = Arrays.asList(items);
+             ArrayList<Items> realList = new ArrayList<Items>(stringItems.size());
+             for(int i=0;i<realList.size();i++) {
+                   if(stringItems.get(i).equals("none")) { 
+                          i++;
+                   }else {
+                   realList.add(item.stringToItem(stringItems.get(i)));
+                   }
+             }
+             this.itemList = realList;
+             
+             
+      }
+
+      
+
+      
+
+      
+      /*
+      * public boolean inRoom(String string) {
+             for(int i=0;i<itemList.size();i++) {
+                   if(itemList.get(i).equals(string))
+                          return true;
+             }
+             return false;
+      }
+      */
+      
 }
